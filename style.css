@@ -47,8 +47,10 @@ body {
   font-weight: 700;
 }
 
-.attribution {
+.attribution,
+.attribution a {
   font-size: 0.825rem;
   font-weight: 700;
   padding-block: 1rem;
+  color: hsl(0, 0%, 20%);
 }
